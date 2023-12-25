@@ -1,0 +1,4 @@
+export const BUTTON_COLOR_PRIMARY = "#FFBA08";
+module.exports = {
+  BUTTON_COLOR_PRIMARY: BUTTON_COLOR_PRIMARY,
+};
